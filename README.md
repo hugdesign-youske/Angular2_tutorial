@@ -1,10 +1,10 @@
-## npm install：npm install
+## npm Install：npm install
 
 `npm install -g angular-cli`
 
 `ng —version`
 
-### ng app new Creative：ng new
+### ng app new Create：ng new
 
 `ng new test_app`
 
