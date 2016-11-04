@@ -1,14 +1,14 @@
-## npmインストール：nam install
+## npm install：npm install
 
 `npm install -g angular-cli`
 
 `ng —version`
 
-### アプリ生成：ng new
+### ng app new Creative：ng new
 
 `ng new test_app`
 
-### サーバー起動：ng sever
+### ng Server：ng sever
 
 `ng s`
 
@@ -16,7 +16,7 @@
 
 `ng t`
 
-### コンポーネント作成：ng generate
+### ComponentCreate：ng generate
 
 `ng generate component greeting`
 
