@@ -1,11 +1,24 @@
-# Angular2Quickstart
-
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.18.
-
-## namインストール：nam install
+# namインストール：nam install
 `npm install -g angular-cli`
 
 `ng —version`
+
+##アプリ生成：ng new
+
+`ng new test_app`
+
+## サーバー起動：ng sever
+`ng s`
+
+## test：ng test
+`ng t`
+
+## コンポーネント作成：ng generate
+`ng generate component greeting`
+
+# Angular2Quickstart
+
+This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.18.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
